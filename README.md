@@ -1,4 +1,3 @@
-
 ### Olá! Me chamo Eliane Oliveira. 🙋‍♀️
 <br>
 
@@ -26,4 +25,4 @@ Entre outros assunto como: <br>
 ## Contatos: 
 
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliane-oliveira-jesus)
-[![LinKedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://eliane.oliverd@gmailcom)
+[![LinKedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://eliane.oliverd@gmail.com)
